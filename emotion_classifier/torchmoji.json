@@ -1,0 +1,15 @@
+{
+    "train": "./data/SemEval18/train-clean-processed.csv",
+    "valid": "./data/SemEval18/test-processed.csv",
+    "test": 1,
+    "feature": "embedding",
+    "num_classes": 6,
+    "batch_size": 64,
+    "epochs": 40,
+    "lr": 0.001,
+    "lr_decay": 1,
+    "dropout": 0.3,
+    "max_ex_per_class": -1,
+    "seed": 1,
+    "processes": 1
+}
