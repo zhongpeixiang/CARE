@@ -2,6 +2,8 @@
 
 `CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts`
 
+The paper is available [here](https://arxiv.org/abs/2012.08377)
+
 ### Repo Structure:
 1. ./emotion_classifier: our deepmoji classifier (https://github.com/huggingface/torchMoji).
 2. ./process_data: scripts to process data, extract emotional triplets, and construct latent concepts
